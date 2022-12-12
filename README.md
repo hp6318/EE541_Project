@@ -4,7 +4,7 @@ EE541 Fall22 Project
 ## Title: ASL classification 
 ### Authors: Meghana Achanta (vachanta@usc.edu); Hardik Prajapati (hprajapa@usc.edu)
 
-####Demo : Real-time ASL classification
+#### Demo : Real-time ASL classification
 
 <p align="center"><img src="India.gif" alt="Demo" width="500"/></p>
 
@@ -24,7 +24,7 @@ EE541 Fall22 Project
 2) Test Dataset: 29
 3) Classes: 29
 4) Image size: 200x200x3
-
+```
 #### Best Model Architecture:
 ```shell
 1) LeNET model
