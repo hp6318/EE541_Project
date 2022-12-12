@@ -4,6 +4,16 @@ EE541 Fall22 Project
 ## Title: ASL classification 
 ### Authors: Meghana Achanta (vachanta@usc.edu); Hardik Prajapati (hprajapa@usc.edu)
 
+#### Highlights:
+```shell
+1) Real-time ASL classification
+2) Simple & small model size: 250kb
+3) Lower Training time: ~15 minutes
+4) High accuracy: Train ~ 97%, Test ~ 100%
+5) User-Interface: Use Of TesorBoard for visualization 
+6) Version Control: GIT 
+```
+
 #### Demo : Real-time ASL classification
 
 <p align="center"><img src="India.gif" alt="Demo" width="500"/></p>
