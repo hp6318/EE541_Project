@@ -16,6 +16,7 @@ EE541 Fall22 Project
 3) Google Colab
 4) Github
 5) Visual Studio Code
+6) TensorBoard (plotting learning curves)
 ```
 
 #### Dataset:
