@@ -25,6 +25,14 @@ EE541 Fall22 Project
 3) Classes: 29
 4) Image size: 200x200x3
 ```
+#### Pre-processing:
+```shell
+1) PIL-ToTensor
+2) Resize: 200x200 -> 32x32
+3) Normalization: mean=[0.485,0.456,0.406], std=[0.229,0.224,0.225]
+```
+
+
 #### Best Model Architecture:
 ```shell
 1) LeNET model
